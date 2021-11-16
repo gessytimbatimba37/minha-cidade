@@ -1,0 +1,126 @@
+
+body {
+    
+    background-image: url('../img/cidade.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    width: 1300px;
+    height: 1500px;
+    background-position: right center
+    
+}
+
+.div1 { 
+
+    font-family: 'Road Rage';
+    font-size: 36px;
+    text-align: center;
+    color: #B22222;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: rgb(37, 1, 1);
+    background-color: #1b1b1b;
+    border: black;
+    width: 500px;
+    height: 150px;
+    position: absolute;
+    top: 10px;
+    bottom: 50px;
+    left: 10px;
+    padding-top: -50px;
+    padding-bottom: 95px;
+    border: 4mm ridge rgb(49, 1, 1); 4px black     
+         
+}
+
+.div2 {
+    background-color: rgb(56, 56, 56);
+    color: rgb(29, 2, 2);
+    font-family: pacifico;
+    font-size: 25px;
+    text-align: center;
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: rgb(95, 22, 22);
+    height:20px;
+    width: 800px;
+    position:absolute;
+    top: 30px;
+    left: 510px;
+    padding-bottom: 190px;  
+    border: 4mm ridge rgb(49, 1, 1); 4px black  
+    
+}
+
+.curiosidades {
+    font-size:20px;
+    color: #B22222;
+    bottom: 300px;
+    left: 300px;
+    top: 1195px;
+    height: 700px;
+    width: 650px;
+    position: absolute;
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-top: 90px;
+    margin-top: 10px;
+    border:4mm ridge rgb(49, 1, 1); 4px black  
+    background-color: rgb(160,187,187);
+    background-image: url(../img/phantom.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: right center
+    
+}
+
+.vídeo{
+    position: absolute;
+    top: 400px;
+    bottom: -750px;
+    left: 20px;
+    right: 300px;
+    width: 1280px;
+    height: 720px;
+    border: 4mm ridge rgb(49, 1, 1); 4px black
+}
+
+.pessoas{
+    background-color: #1b1b1b;
+    background-image: url(../img/pngegg.png);
+    background-position: 50% 50% ;
+    border:4mm ridge rgb(49, 1, 1); 4px black; 
+    width: 1300px;
+    height: 400px;
+    position: relative;
+    top: 2080px;
+    left:0px;
+}
+    
+.facebook{
+    position: absolute;
+    bottom:300px;
+    top: 2300px;
+    left: 180px;
+    right: 190px;
+}
+  
+.insta{
+    background-position: center;
+    position: absolute;
+    bottom:430px;
+    top: 2300px;
+    left: 600px;
+   
+}
+
+.youtube{
+    position: absolute;
+    bottom:400px;
+    top: 2200px;
+    left: 1000px;
+    
+}
